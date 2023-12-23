@@ -90,11 +90,10 @@ Usrs can also use cart option **(still not completely developed)** to order mumt
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
+- [@katakampranav](https://github.com/katakampranav)
 - **Repositories :**
-https://github.com/saiabhiramjaini/Resculpt-For_Artisans
+https://github.com/katakampranav/ReSculpt---Artisans
 
 ## Feedback 
 
-If you have any feedback, please reach out me at abhiramjaini28@gmail.com
-
+If you have any feedback, please reach out me at katakampranavshankar@gmail.com
