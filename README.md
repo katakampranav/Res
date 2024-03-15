@@ -21,7 +21,8 @@ This app exclusively focuses on providing a platform for showcasing and selling 
 
 ## Tech Stack
 
-**Flutter** : Front-end framework
+**Flutter** : Front-end framework 
+
 **Firebase** : Back-end as a service 
 
 ## Workflow
